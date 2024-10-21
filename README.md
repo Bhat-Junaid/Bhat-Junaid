@@ -34,9 +34,6 @@
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://github.com/junaidramzan" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-junaidramzan-lightgrey?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
-  </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/feed/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
