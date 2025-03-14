@@ -26,7 +26,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>
   <!-- Fortran -->
-  <a href="https://images.app.goo.gl/7rqtr3D8UXezct1TA" target="_blank" rel="noreferrer">
+  <a href="[https://images.app.goo.gl/7rqtr3D8UXezct1TA](https://fortran-lang.org/)" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="Fortran" width="40" height="40"/>
   </a>
 </p>
