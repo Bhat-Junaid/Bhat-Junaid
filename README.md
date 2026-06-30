@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Junaid Ramzan Bhat
-- 👀 Currently doing PhD on Atmospheres of Sub-Neptunes
-- Learning computations, mostly related to astro-stuff
+- 👀 PhD student working on Atmospheres of Sub-Neptunes
+
 
 ## ⚙️ Languages and Tools
 
